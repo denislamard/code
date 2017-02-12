@@ -1,4 +1,5 @@
 //Denis LAMARD
+// 12/12/2012
 
 #ifndef JSON_H_
 #define JSON_H_
